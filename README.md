@@ -91,15 +91,6 @@ Contributions are welcome! To contribute:
 
 ---
 
-## **Screenshots**
-
-### **1. Employer Dashboard**
-![Employer Dashboard](https://via.placeholder.com/800x400)
-
-### **2. Job Search Page**
-![Job Search](https://via.placeholder.com/800x400)
-
----
 
 ## **Future Enhancements**
 - Add job recommendations based on user profiles.
